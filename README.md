@@ -35,7 +35,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/chaharnishant11/hotel-booking-app.git
+git clone https://github.com/Ritik2khera/Wanderlust
 Navigate to the project directory:
 
 bash
