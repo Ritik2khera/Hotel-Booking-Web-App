@@ -1,4 +1,4 @@
-Hotel Booking Web Application
+Hotel Booking Web Application 
 This is a comprehensive hotel booking web application designed to manage hotel reservations and user interactions efficiently. Here’s a breakdown of how the project works:
 
 Backend:
