@@ -1,3 +1,5 @@
+Hotel Booking Web Application
+
 A comprehensive hotel booking web application built with Node.js, Express.js, and MongoDB. This project handles user authentication, authorization, and booking management with a responsive frontend designed using Bootstrap. Deployed on Render with image assets managed through Cloudinary.
 
 Table of Contents
