@@ -3,34 +3,62 @@ Hotel Booking Web Application
 A comprehensive hotel booking web application built with Node.js, Express.js, and MongoDB. This project handles user authentication, authorization, and booking management with a responsive frontend designed using Bootstrap. Deployed on Render with image assets managed through Cloudinary.
 
 Table of Contents 
+
 Introduction
+
 Features
+
 Tech Stack
+
 Getting Started
+
 Usage
+
 API Endpoints
+
 Deployment
+
 Contributing
+
 License
+
 Acknowledgements
+
+Project is live: https://wanderlust-prfx.onrender.com/listings
+
 Introduction
+
 This project provides a platform for users to book hotel rooms online. It features user registration, login, and booking management. The backend is built with Node.js and Express.js, while the frontend is styled using Bootstrap. The application ensures secure authentication and handles both client-side and server-side errors gracefully.
 
 Features
 User registration and login
+
 Secure authentication and authorization
+
 Room booking and management
+
 Responsive design using Bootstrap
+
 Error handling for both client and server
+
 RESTful APIs for data operations
+
 Tech Stack
+
 Frontend: HTML, CSS, Bootstrap
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 Authentication: JWT
+
 Deployment: Render
+
 Image Management: Cloudinary
+
 Getting Started
+
 To get a local copy up and running, follow these steps:
 
 Clone the repository:
