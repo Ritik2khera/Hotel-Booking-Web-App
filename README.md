@@ -59,6 +59,8 @@ Image Management: Cloudinary
 
 Getting Started
 
+Create your own listings
+
 To get a local copy up and running, follow these steps:
 
 Clone the repository:
@@ -66,8 +68,8 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/Ritik2khera/Wanderlust
-Navigate to the project directory:
 
+Navigate to the project directory:
 bash
 Copy code
 cd hotel-booking-app
@@ -88,18 +90,30 @@ Start the application:
 
 bash
 Copy code
+
 npm start
+
 Usage
 Register: Create an account to start booking.
+
 Login: Access your bookings and manage them.
+
 Book a Room: Search for available rooms and complete the booking process.
+
 API Endpoints
+
 POST /api/register: Register a new user
+
 POST /api/login: Log in and receive a JWT
+
 GET /api/bookings: Retrieve user bookings
+
 POST /api/bookings: Create a new booking
+
 DELETE /api/bookings/
+
 : Cancel a booking
+
 Deployment
 The application is deployed on Render and can be accessed here.
 
